@@ -4,6 +4,13 @@ This project containt of sorting algorithm mostly talked in university or any pr
 
 In this project all of the algorithm and code will be written in javascript.
 
+## Table of Contents
+- [SORTING ALGORITHM](#sorting-algorithm)
+- [List of Algorithm](#list-of-sorting-algorithm)
+	- [Selection Sort](#selection-sort-rockethttpsgithubcomindrabaysortingblobmasterselectionsortjs)
+	- [Bubble Sort](#bubble-sort-rockethttpsgithubcomindrabaysortingblobmasterbubblesortjs)
+
+
 ## List of sorting algorithm
 
 ### **Selection Sort** [:rocket:](https://github.com/Indrabay/sorting/blob/master/selection_sort.js)
@@ -12,7 +19,7 @@ Selection sort is simple sorting algorithm, but not efficient. It has complexity
 
 array = [ 5, 2, 4, 3, 1 ]
 | **step** | **resulted array** | **unvisited** | **minimum** |
-|----------|--------------------|---------------|-------------|
+|:--------:|:------------------:|--------------:|:-----------:|
 |     0    |    5, 2, 4, 3, 1   | 5, 2, 4, 3, 1 |     none    |
 |     1    |    1, 2, 4, 3, 5   |    2, 4, 3, 5 |      1      |
 |     2    |    1, 2, 4, 3, 5   |       4, 3, 5 |      2      |
